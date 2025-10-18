@@ -1,0 +1,7 @@
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\bin\Debug\EXAMENU2.exe.config
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\bin\Debug\EXAMENU2.exe
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\bin\Debug\EXAMENU2.pdb
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\obj\Debug\EXAMENU2.csproj.AssemblyReference.cache
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\obj\Debug\EXAMENU2.csproj.CoreCompileInputs.cache
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\obj\Debug\EXAMENU2.exe
+C:\Users\liczy\source\repos\EXAMENU2\EXAMENU2\obj\Debug\EXAMENU2.pdb
